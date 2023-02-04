@@ -1,0 +1,11 @@
+<Suite name="Suite1"> parallel="Methods">
+<Test name= "test1">
+<Classes >
+<class name="com.seleniumGridPractice">
+
+</class>
+
+</Classes>
+</Test>
+
+</Suite>

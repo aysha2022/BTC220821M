@@ -1,0 +1,25 @@
+<suite name="Suite" parallal="Test">
+	<test name="Test1">
+	test<parameter name="browsers" vlaue="chrome"></parameter>
+	<classes>
+	<class name="com.bit.ui.SmokeTest" />
+	<methods>
+	<include name="method name">
+	</include>
+	</methods>
+	<class name="com.bit.ui.RegTest" />
+		</classes>
+	</test> 
+	<test name="test 2">
+	<parameter name= "Browsers" value="fairefox">
+	</parameter> 
+	<classes>
+	<class name="com.bit.ui.SmokeTest" />
+	<methods>
+	<include name="method name">
+	</include>
+	</methods>
+	<class name="com.bit.ui.RegTest" />
+		</classes>
+	</test>
+</suite >

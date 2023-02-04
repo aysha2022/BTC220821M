@@ -1,0 +1,12 @@
+<SUIT name="TestNGFramework">
+<listners>
+<listner class-name="listnerconcepts.Baselestiner">
+</listner>
+</listners>
+<test name="SmokeTest">
+<packages>
+<package name="com.bit.ui">
+</package>
+</packages>
+</test>
+</SUIT>
